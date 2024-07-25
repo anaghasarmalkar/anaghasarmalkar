@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Data Science Projects:
+- [Implement and benchmark classification algorithms using Apache Spark](https://github.com/AnaghaSarmalkar/FlightDelay)
+- [Inverted Index and Query Mechanism for Documents Using Hadoop](https://github.com/AnaghaSarmalkar/Inverted-index-and-query-mechanism)
