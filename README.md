@@ -1,4 +1,4 @@
-# Hi there 👋,
+# Hi there! 👋
 > Pronouns: she/her/hers
 
 I'm Anagha Sarmalkar and I'm a Full Stack Software Engineer. 
