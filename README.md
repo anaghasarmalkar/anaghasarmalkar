@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi there 👋,
+> Pronouns: she/her/hers
 
+I'm Anagha Sarmalkar and I'm a Full Stack Software Engineer. 
+I love building stuff. I enjoy using code to turn my ideas into usable products. 
+
+Here are some of my interesting projects.
 <!--
 **AnaghaSarmalkar/anaghasarmalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Chatter:
+- I wanted to create my own version of Discord and learn about real time text communication. Learn more [here]()
 
 Data Science Projects:
 - [Implement and benchmark classification algorithms using Apache Spark](https://github.com/AnaghaSarmalkar/FlightDelay)
