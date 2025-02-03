@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 Chatter:
-- I wanted to create my own version of Discord and learn about real time text communication. Learn more [here]()
+- I wanted to create my own version of Whatsapp and learn about real time text communication. Chatter is a browser based chat app where users can communicate via text, share media in real time either one one or in a group by creating chat rooms.
 
 Data Science Projects:
 - [Implement and benchmark classification algorithms using Apache Spark](https://github.com/AnaghaSarmalkar/FlightDelay)
