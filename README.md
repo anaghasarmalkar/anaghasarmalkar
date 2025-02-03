@@ -25,7 +25,7 @@ Chatter:
 - Built using Next.js and FastAPI, secure and scalable communication through OAuth 2.0 authentication and WebSocket integration.
 
 HackerNews Clone:
-- Built a fully functional news aggregation platform with React and Tailwind CSS using Next.js, integrating tree based official Hacker News APIs to fetch and display news articles efficiently. Implemented CI/CD workflows using Docker and GitHub Actions to streamline builds and deployments.
+- Built a fully functional news aggregation platform with React and Tailwind CSS using Next.js, integrating tree based official Hacker News APIs to fetch and display news articles efficiently. Implemented CI/CD workflows using Docker and GitHub Actions to streamline builds and deployments. [Demo](https://anaghasarmalkar.github.io/hackernews-clone/)
 
 
 Data Science Projects:
