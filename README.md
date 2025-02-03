@@ -24,6 +24,9 @@ Chatter:
 - I wanted to create my own version of Whatsapp and learn about real time text communication. Chatter is a browser based chat app where users can communicate via text, share media in real time either one one or in a group by creating chat rooms.
 - Built using Next.js and FastAPI, secure and scalable communication through OAuth 2.0 authentication and WebSocket integration.
 
+HackerNews Clone:
+- Built a fully functional news aggregation platform with React and Tailwind CSS using Next.js, integrating tree based official Hacker News APIs to fetch and display news articles efficiently. Implemented CI/CD workflows using Docker and GitHub Actions to streamline builds and deployments.
+
 
 Data Science Projects:
 - [Implement and benchmark classification algorithms using Apache Spark](https://github.com/AnaghaSarmalkar/FlightDelay)
